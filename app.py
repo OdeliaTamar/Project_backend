@@ -1,6 +1,6 @@
 from .textToText import test
 
-
+#The Main app
 # save this as app.py
 from flask import Flask, jsonify, request, json
 

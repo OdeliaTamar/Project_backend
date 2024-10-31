@@ -6,13 +6,13 @@ from cloudinary import uploader
 
 # Configuration for Cloudinary
 cloudinary.config(
-    cloud_name="dj7jfjs6e",
-    api_key="736763811435263",
-    api_secret="Z2mion9tJ9lKwDgGzQSRy6DNyxg"
+    cloud_name="your_cloud_name",
+    api_key="your_api_key",
+    api_secret="your_api_secret"
 )
 
 # Configuration for OpenAI
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = 'your_openai_api_key'
 openai.api_key = OPENAI_API_KEY
 
 

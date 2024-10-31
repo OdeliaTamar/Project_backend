@@ -3,7 +3,7 @@ from flask import jsonify
 
 from .textToImage import generate_and_upload_image
 
-openai.api_key = "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"
+openai.api_key = 'your_openai_api_key'
 
 
 def chat_with_gpt(prompt):

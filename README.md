@@ -1,4 +1,4 @@
-# AI My Magic Story Project
+# AI My-Magic-Story Project
 
 A Flask-based API service that converts text input (primarily Hebrew) into images using OpenAI's GPT and DALL-E and manages image storage through Cloudinary.
 
